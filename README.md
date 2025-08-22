@@ -47,9 +47,7 @@ Welcome to **Ultimate Supreme Final Boss App** – the **all-in-one student help
 🌐 Live Preview
 
 View the app live on GitHub Pages:
-https://your-username.github.io/Your-Repo-Name/
-
-(Replace your-username and Your-Repo-Name with your GitHub details.)
+https://ranjananurag2008-lab.github.io/student-helper-pro/
 
 
 ---
